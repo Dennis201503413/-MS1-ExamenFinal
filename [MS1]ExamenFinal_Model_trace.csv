@@ -1,0 +1,3 @@
+Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
+2.04172739744396,DefaultEntity.46,R_a,9.PerformProcessingTask,[Consume] TaskMaterials,Object ‘DefaultEntity.46’ unable to consume the ‘4’ currently available unit(s) of material ‘A’ of lot ID ‘<unspecified>’ at inventory site ‘R_a’. Allow partial allocation condition returned False.
+
